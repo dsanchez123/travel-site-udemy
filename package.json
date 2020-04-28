@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/dsanchez123/travel-site-udemy#readme",
   "dependencies": {
+    "loadsh": "0.0.4",
     "lodash": "^4.17.15",
+    "lodsah": "0.0.1-security",
     "normalize.css": "^8.0.1"
   },
   "devDependencies": {

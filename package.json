@@ -22,7 +22,7 @@
   "dependencies": {
     "lazysizes": "^5.2.0",
     "loadsh": "0.0.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "lodsah": "0.0.1-security",
     "normalize.css": "^8.0.1"
   },

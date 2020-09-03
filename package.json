@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/dsanchez123/travel-site-udemy#readme",
   "dependencies": {
-    "lazysizes": "^5.2.0",
+    "lazysizes": "^5.2.1",
     "loadsh": "0.0.4",
     "lodash": "^4.17.15",
     "lodsah": "0.0.1-security",
